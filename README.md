@@ -9,3 +9,7 @@ COFFEE MAKING
     1. Add milk
     2. Add sugar
 2. Mix well until the sugar melts
+* After the milk boils,
+    * Add coffee powder
+* Stir the milk and coffee powder well
+* Lastly, Serve the coffee in a coffee cup.
