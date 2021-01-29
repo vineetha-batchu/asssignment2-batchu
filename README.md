@@ -12,7 +12,5 @@ COFFEE MAKING
 * After the milk boils,
     * Add coffee powder
 * Stir the milk and coffee powder well
-* Lastly, Serve the coffee in a coffee cup.
-
-
+* Lastly, Serve the coffee in a coffee cup.  
 **[About Me](AboutMe.md)**
