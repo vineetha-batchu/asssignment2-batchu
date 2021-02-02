@@ -16,7 +16,7 @@ It is made with a savory filling, choice of meat such as chicken, beef, or pork,
 **[About Me](AboutMe.md)** 
 ---
 ## PLACES TO VISIT
-    In this section, one of the top 4 locations that I wish to visit in the United States have been mentioned.I personally recommend people to visit these places.
+In this section, one of the top 4 locations that I wish to visit in the United States have been mentioned.I personally recommend people to visit these places.
 | **LOCATION**  | **NO.OF.HOURS** | **AMOUNT TO PAY** |
 |---------------|-------------|---------------|
 | San Francisco | 10          | 600           |
