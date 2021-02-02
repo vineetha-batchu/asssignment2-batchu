@@ -24,7 +24,7 @@ In this section, one of the top 4 locations that I wish to visit in the United S
 | Las Vegas     | 14          | 500           |
 | New York      | 16          | 700           | 
 
-![sf](images/location/fran.jpg)![sf](images/location/las.jpg)![sf](images/location/dallas.jpg)
+![sf](images/location/frans.jpg)![sf](images/location/las.jpg)![sf](images/location/dallas.jpg)
 ----
 ### Pithy Quotes
 > "It's always darkest before you're blinded by the light" ― *josh stern*  
