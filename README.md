@@ -23,3 +23,8 @@ In this section, one of the top 4 locations that I wish to visit in the United S
 | Dallas        | 12          | 400           |
 | Las Vegas     | 14          | 500           |
 | New York      | 16          | 700           |
+
+----
+### Pithy Quotes
+> "It's always darkest before you're blinded by the light" ― *josh stern*
+> "Intelligence is the ability to adapt to change"- *Stephen Hawking*
