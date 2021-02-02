@@ -13,7 +13,7 @@ It is made with a savory filling, choice of meat such as chicken, beef, or pork,
     * Add coffee powder
 * Stir the milk and coffee powder well
 * Lastly, Serve the coffee in a coffee cup.  
-![sf](images/location/img1.png)![sf](images/location/img2.png)![sf](images/location/img3.png)      
+![step1](images/task/img1.png)![step2](images/task/img2.png)![step3](images/task/img3.png)      
 **[About Me](AboutMe.md)** 
 ---
 ## PLACES TO VISIT
@@ -25,7 +25,7 @@ In this section, one of the top 4 locations that I wish to visit in the United S
 | Las Vegas     | 14          | 500           |
 | New York      | 16          | 700           | 
 
-![sf](images/location/frans.png)![sf](images/location/vegas.png)![sf](images/location/dallas.png)![sf](images/location/nyork.png)
+![sf](images/location/frans.png)![vegas](images/location/vegas.png)![dallas](images/location/dallas.png)![New York](images/location/nyork.png)
 ----
 ### Pithy Quotes
 > "It's always darkest before you're blinded by the light" ― *josh stern*  
