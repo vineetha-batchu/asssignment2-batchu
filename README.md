@@ -12,7 +12,8 @@ It is made with a savory filling, choice of meat such as chicken, beef, or pork,
 * After the milk boils,
     * Add coffee powder
 * Stir the milk and coffee powder well
-* Lastly, Serve the coffee in a coffee cup.    
+* Lastly, Serve the coffee in a coffee cup.  
+![sf](images/location/frans.png)![sf](images/location/vegas.png)![sf](images/location/dallas.png)      
 **[About Me](AboutMe.md)** 
 ---
 ## PLACES TO VISIT
